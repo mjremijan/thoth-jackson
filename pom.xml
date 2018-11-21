@@ -7,6 +7,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>thoth-jackson-01-prettyprint</module>
+        <module>thoth-jackson-02-bind_to_object</module>
     </modules>
     <dependencies>
         <dependency>
